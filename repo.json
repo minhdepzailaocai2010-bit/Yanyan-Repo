@@ -1,0 +1,60 @@
+{
+  "name": "Yanyan Repo",
+  "identifier": "com.minhdepzailaocai.yanyanrepo",
+  "sourceURL": "https://raw.githubusercontent.com/minhdepzailaocai2010-bit/Yanyan-Repo/main/repo.json",
+  "apps": [
+    {
+      "name": "Mod Skin Liên Quân",
+      "bundleIdentifier": "com.garena.game.kgvn.modskin",
+      "developerName": "Minh",
+      "subtitle": "Gói Mod Skin Full Hiệu Ứng",
+      "localizedDescription": "Bản mod skin Liên Quân Mobile đầy đủ hiệu ứng âm thanh và trang phục.",
+      "iconURL": "https://raw.githubusercontent.com/minhdepzailaocai2010-bit/Yanyan-Repo/main/icon.png",
+      "tintColor": "0088FF",
+      "category": "Games",
+      "version": "1.0.0",
+      "versionDate": "2026-10-25T00:00:00Z",
+      "versionDescription": "Phát hành bản thử nghiệm.",
+      "downloadURL": "https://raw.githubusercontent.com/minhdepzailaocai2010-bit/Yanyan-Repo/main/Mod%20Skin.3105",
+      "size": 31790312,
+      "minOSVersion": "14.0",
+      "permissions": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-25T00:00:00Z",
+          "downloadURL": "https://raw.githubusercontent.com/minhdepzailaocai2010-bit/Yanyan-Repo/main/Mod%20Skin.3105",
+          "size": 31790312,
+          "localizedDescription": "Phiên bản v1.0.0"
+        }
+      ]
+    },
+    {
+      "name": "Edras VTK Xịn",
+      "bundleIdentifier": "com.edras.vtk",
+      "developerName": "Minh",
+      "subtitle": "Gói Tweak/Patch Edras",
+      "localizedDescription": "Bản patch Edras VTK xịn xò hỗ trợ tối ưu hóa tính năng.",
+      "iconURL": "https://raw.githubusercontent.com/minhdepzailaocai2010-bit/Yanyan-Repo/main/icon.png",
+      "tintColor": "FF3B30",
+      "category": "Utilities",
+      "version": "2.0",
+      "versionDate": "2026-10-25T00:00:00Z",
+      "versionDescription": "Bản cập nhật v2.",
+      "downloadURL": "https://raw.githubusercontent.com/minhdepzailaocai2010-bit/Yanyan-Repo/main/%5Blos%5D%20Edras%20VTK%20X%E1%BB%8CN_2.3105",
+      "size": 125072464,
+      "minOSVersion": "14.0",
+      "permissions": [],
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2026-10-25T00:00:00Z",
+          "downloadURL": "https://raw.githubusercontent.com/minhdepzailaocai2010-bit/Yanyan-Repo/main/%5Blos%5D%20Edras%20VTK%20X%E1%BB%8CN_2.3105",
+          "size": 125072464,
+          "localizedDescription": "Phiên bản v2.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
