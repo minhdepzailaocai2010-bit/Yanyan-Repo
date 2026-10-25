@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "Mod Skin Liên Quân",
-      "bundleIdentifier": "com.garena.game.kgvn.modskin",
+      "bundleIdentifier": "com.garena.game.kgvn",
       "developerName": "Minh",
       "subtitle": "Gói Mod Skin Full Hiệu Ứng",
       "localizedDescription": "Bản mod skin Liên Quân Mobile đầy đủ hiệu ứng âm thanh và trang phục.",
